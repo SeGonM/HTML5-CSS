@@ -4,7 +4,7 @@
 
 Este repositorio es mi ruta de aprendizaje personal. No pretendo ser un experto, pero estoy convencido de que todos podemos aprender y crecer aplicando esta ruta juntos. 
 
-En Hispanoamérica no tenemos tan arraigada la cultura de crear repositorios colaborativos donde la comunidad participe de forma activa, transparente y asertiva (un formato de estudio público muy com[...] 
+En Hispanoamérica no tenemos tan arraigada la cultura de crear repositorios colaborativos donde la comunidad participe de forma activa, transparente y asertiva (un formato de estudio público muy comun
 
 Si estás aprendiendo a programar, te cuesta estudiar en soledad o te abruma la presión de los entornos tradicionales, la mesa está servida. Todos son bienvenidos a participar.
 
@@ -14,7 +14,7 @@ Si estás aprendiendo a programar, te cuesta estudiar en soledad o te abruma la 
 
 A continuación encontrarás una tabla de contenidos exhaustiva para aprender maquetación con HTML y CSS exclusivamente. Todo lo propuesto puede resolverse sin JavaScript; los retos y técnicas están limitados a HTML y CSS puros.
 
-1) Fundamentos absolutos (lo más simple)
+1) Fundamentos absolutos
    - Estructura HTML básica: `<!doctype html>`, `html`, `head`, `body`
    - Etiquetas semánticas básicas: `header`, `main`, `footer`, `section`, `article`, `nav`
    - Texto y contenido: `h1-h6`, `p`, `span`, `strong`, `em`, listas (`ul`, `ol`, `li`)
@@ -49,14 +49,14 @@ A continuación encontrarás una tabla de contenidos exhaustiva para aprender ma
    - Imágenes responsivas: `srcset`, `sizes`, `picture`
    - Mini reto: Landing responsiva básica
 
-6) Flexbox (intermedio)
+6) Flexbox 
    - Contenedor flex: `display: flex` y ejes principales
    - Propiedades: `flex-direction`, `justify-content`, `align-items`, `flex-wrap`
    - Items: `flex`, `order`, `align-self`
    - Patrones: centrar contenido, nav horizontal, cards responsivas
    - Mini reto: Grid de tarjetas con Flexbox
 
-7) CSS Grid (intermedio-avanzado)
+7) CSS Grid
    - Conceptos: track, gutter, implicit vs explicit grid
    - Sintaxis: `grid-template-columns`, `grid-template-rows`, `gap`
    - Áreas de grid, líneas nombradas y `grid-auto-flow`
@@ -76,14 +76,14 @@ A continuación encontrarás una tabla de contenidos exhaustiva para aprender ma
    - Técnicas de imágenes y assets para rendimiento
    - Mini reto: Layout que cambia radicalmente según ancho
 
-10) Interactividad con CSS (sin JavaScript)
+10) Interactividad con CSS
     - Transitions y transforms
     - Animaciones con `@keyframes`
     - Estados con pseudo-clases: `:hover`, `:focus`, `:active`, `:checked` (checkbox/radio hack)
     - `prefers-reduced-motion` y accesibilidad en animaciones
     - Mini reto: Menú desplegable y tarjetas interactivas usando solo HTML/CSS
 
-11) Accesibilidad y buenas prácticas (A11y)
+11) Accesibilidad y buenas prácticas
     - Roles ARIA básicos y atributos útiles (sin dependencias JS)
     - Estados focus visibles, contraste de color
     - Skip links y navegación por teclado
@@ -96,14 +96,14 @@ A continuación encontrarás una tabla de contenidos exhaustiva para aprender ma
     - CSS blend modes y filtros
     - Mini reto: Cabecera con máscara y texto sobre imagen
 
-13) Layouts complejos y patrones difíciles (CSS puro)
+13) Layouts complejos y patrones difíciles
     - Masonry con soluciones puramente CSS (columnas múltiples, CSS Grid experimental)
     - Multi-column layout (`column-count`, `column-gap`)
     - Sticky footers complejos y sidebars flexibles (sin JS)
     - Overlapping/stacked layouts y contenido dimensional usando `position` y Grid
     - Mini reto: Dashboard complejo con múltiples zonas (sin JS)
 
-14) Rendimiento y producción (en contexto HTML/CSS)
+14) Rendimiento y producción
     - Critical CSS, carga diferida de assets (rel=preload, rel=preconnect)
     - Minimizar repaints/reflows y optimizar estilos
     - Gestión de fuentes y carga de assets eficientes
@@ -115,13 +115,13 @@ A continuación encontrarás una tabla de contenidos exhaustiva para aprender ma
     - Pruebas visuales básicas (capturas/compare) enfocadas en HTML/CSS
     - Mini reto: Validar compatibilidad en distintos navegadores y anchos
 
-16) Herramientas y preprocesadores (centrado en estilos)
+16) Herramientas y preprocesadores
     - Preprocesadores: Sass (variables, mixins, nesting) — genera CSS final
     - PostCSS, Autoprefixer y herramientas de build que producen CSS
     - Bundlers y live reload (solo para servir archivos; no incluir lógica JS)
     - Mini reto: Migrar estilos a Sass y compilar a CSS puro
 
-17) CSS moderno y futuro (avanzado/experto)
+17) CSS moderno y futuro
     - Container Queries y nuevas capacidades de layout solo con CSS
     - Houdini (conceptos; evitar dependencias JS — investigar limitaciones)
     - Custom layouts y APIs CSS que no requieran escribir JavaScript
@@ -140,7 +140,7 @@ A continuación encontrarás una tabla de contenidos exhaustiva para aprender ma
     - Integración con SVG y animaciones SVG con CSS
     - Mini reto: Newsletter responsive compatible con clientes limitados
 
-20) Proyectos finales sugeridos (sin JavaScript)
+20) Proyectos finales sugeridos
     - Portfolio completo con diseño responsive, accesible y optimizado (HTML/CSS)
     - Dashboard visual estático con layout complejo y responsive (sin comportamientos dinámicos con JS)
     - Tienda o catálogo estático: fichas de producto, grid adaptativo y páginas de producto simples
@@ -165,6 +165,4 @@ Para apoyarnos en el proceso, resolver dudas por chat de texto o simplemente reu
 
 ---
 
-## 📝 Licencia
 
-Este proyecto es de código abierto bajo la licencia [MIT](LICENSE). Siéntete libre de usar la documentación y los ejercicios para tu propio estudio o portafolio personal.
