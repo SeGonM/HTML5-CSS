@@ -7,20 +7,6 @@ Este repositorio es mi ruta de aprendizaje personal. No pretendo ser un experto,
 En Hispanoamérica no tenemos tan arraigada la cultura de crear repositorios colaborativos donde la comunidad participe de forma activa, transparente y asertiva (un formato de estudio público muy com[...] 
 
 Si estás aprendiendo a programar, te cuesta estudiar en soledad o te abruma la presión de los entornos tradicionales, la mesa está servida. Todos son bienvenidos a participar.
-
----
-
-## 🗺️ Estructura del Contenido
-
-El aprendizaje se divide por semanas. En cada carpeta encontrarás la documentación teórica explicada de forma sencilla y el ejercicio práctico correspondiente:
-
-| Semana | Tema Principal | Proyecto / Reto | Estado |
-| :--- | :--- | :--- | :---: |
-| **Semana 1** | Estructura base y HTML Semántico | Documento personal / CV Web | 🟢 Disponible |
-| **Semana 2** | CSS Base, Selectores y Modelo de Caja | Tarjeta de Perfil Interactiva | ⏳ En proceso |
-| **Semana 3** | Flexbox a fondo y Layouts | Menú de navegación y Landing Page | 🔒 Próximamente |
-| **Semana 4** | CSS Grid y Diseño Responsive | Galería / Dashboard Adaptativo | 🔒 Próximamente |
-
 ---
 
 ## 🧭 Roadmap de Maquetación (Tabla de Contenidos) — Solo HTML & CSS
