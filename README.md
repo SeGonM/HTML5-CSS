@@ -1,4 +1,4 @@
-# 🚀 Ruta de Aprendizaje Web: HTML5 & CSS3
+# 🗾 Ruta de Aprendizaje Web: HTML5 & CSS3
 
 <p align="center">
   <img src="assest/banner2.png" alt="Banner - Ruta de Aprendizaje HTML5 & CSS3" />
@@ -8,15 +8,15 @@
 
 Este repositorio es mi ruta de aprendizaje personal. No pretendo ser un experto, pero estoy convencido de que todos podemos aprender y crecer aplicando esta ruta juntos. 
 
-En Hispanoamérica no tenemos tan arraigada la cultura de crear repositorios colaborativos donde la comunidad participe de forma activa, transparente y asertiva (un formato de estudio público muy com[...] 
+En Hispanoamérica no tenemos tan arraigada la cultura de crear repositorios colaborativos donde la comunidad participe de forma activa, transparente y asertiva (un formato de estudio público muy común en otras culturas).
 
 Si estás aprendiendo a programar, te cuesta estudiar en soledad o te abruma la presión de los entornos tradicionales, la mesa está servida. Todos son bienvenidos a participar.
 
 ---
 
-## 🧭 Roadmap de Maquetación (Tabla de Contenidos) — Solo HTML & CSS
+## 🎌 Roadmap de Maquetación (Tabla de Contenidos) — Solo HTML & CSS
 
-A continuación encontrarás una tabla de contenidos exhaustiva para aprender maquetación con HTML y CSS exclusivamente. Todo lo propuesto puede resolverse sin JavaScript; los retos y técnicas e[...] 
+A continuación encontrarás una tabla de contenidos exhaustiva para aprender maquetación con HTML y CSS exclusivamente. Todo lo propuesto puede resolverse sin JavaScript; los retos y técnicas están enfocados únicamente en HTML y CSS.
 
 1) Fundamentos absolutos
    - Estructura HTML básica: `<!doctype html>`, `html`, `head`, `body`
@@ -151,22 +151,20 @@ A continuación encontrarás una tabla de contenidos exhaustiva para aprender ma
 
 ---
 
-## 🛠️ ¿Cómo participar o usar este repo?
+## 🎋 ¿Cómo participar o usar este repo?
 
 Tienes total libertad para usar este material como mejor te convenga:
 
 1. **A tu propio ritmo:** Lee los archivos Markdown de cada semana y resuelve los retos por tu cuenta usando únicamente HTML y CSS.
 2. **Practicando Git:** Haz un *Fork* de este repositorio, crea una rama con tu nombre y sube tu solución para recibir retroalimentación asertiva y sin ego.
-3. **Aportando a la comunidad:** Si ves un error de ortografía, una explicación confusa o quieres añadir un mejor ejemplo en la teoría (siempre en HTML/CSS), ¡los *Pull Requests* son súper [...]
+3. **Aportando a la comunidad:** Si ves un error de ortografía, una explicación confusa o quieres añadir un mejor ejemplo en la teoría (siempre en HTML/CSS), ¡los *Pull Requests* son súper bienvenidos!
 
 ---
 
-## 🤝 Comunidad y Acompañamiento
+## 🏮 Comunidad y Acompañamiento
 
 Para apoyarnos en el proceso, resolver dudas por chat de texto o simplemente reunirnos a programar en silencio:
 
-* 💬 **Discord Comunitario:** [Unirse al servidor de Discord](https://discord.gg/TU_ENLACE_AQUI) *(Llamadas opcionales, espacio tranquilo y sin presiones).* 
+* 💭 **Discord Comunitario:** [Unirse al servidor de Discord](https://discord.gg/TU_ENLACE_AQUI) *(Llamadas opcionales, espacio tranquilo y sin presiones).* 
 
 ---
-
-
