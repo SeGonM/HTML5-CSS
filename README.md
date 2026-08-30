@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="assest/banner.png" alt="Banner - Ruta de Aprendizaje HTML5 & CSS3" />
+  <img src="https://raw.githubusercontent.com/SeGonM/HTML5-CSS/main/assets/banner.png" alt="Banner - Ruta de Aprendizaje HTML5 & CSS3" />
 </p>
 
 ¡Bienvenido/a a este espacio! 
