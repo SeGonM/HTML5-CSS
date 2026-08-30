@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <img src="assest/banner.png" alt="Banner - Ruta de Aprendizaje HTML5 & CSS3" />
+  <img src="/assest/banner.png" alt="Banner - Ruta de Aprendizaje HTML5 & CSS3" />
   
 </p>
 
