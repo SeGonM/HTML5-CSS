@@ -14,7 +14,7 @@
   [![Responsive](https://img.shields.io/badge/Responsive%20Design-4CAF50?style=for-the-badge&logo=responsive&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
   [![Accessibility](https://img.shields.io/badge/Accessibility-FFC107?style=for-the-badge&logo=wcag&logoColor=white)](https://www.w3.org/WAI/standards-guidelines/wcag/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeGonM)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TU_ENLACE_AQUI)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
   [![License MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
