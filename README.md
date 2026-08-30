@@ -23,7 +23,7 @@
 
 Este repositorio es mi ruta de aprendizaje personal. No pretendo ser un experto, pero estoy convencido de que todos podemos aprender y crecer aplicando esta ruta juntos. 
 
-En Hispanoamérica no tenemos tan arraigada la cultura de crear repositorios colaborativos donde la comunidad participe de forma activa, transparente y asertiva (un formato de estudio público muy[...]
+En Hispanoamérica no tenemos tan arraigada la cultura de crear repositorios colaborativos donde la comunidad participe de forma activa, transparente y asertiva (un formato de estudio público muy comun en la comunidad anglosajona)
 
 Si estás aprendiendo a programar, te cuesta estudiar en soledad o te abruma la presión de los entornos tradicionales, la mesa está servida. Todos son bienvenidos a participar.
 
