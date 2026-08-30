@@ -1,5 +1,18 @@
 # Ruta de Aprendizaje Web: HTML5 & CSS3
 
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Web Design](https://img.shields.io/badge/Web%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-4CAF50?style=for-the-badge&logo=responsive&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-FFC107?style=for-the-badge&logo=wcag&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![License MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+</div>
+
 <p align="center">
   <img src="assest/banner.png" alt="Banner - Ruta de Aprendizaje HTML5 & CSS3" />
 </p>
@@ -8,7 +21,7 @@
 
 Este repositorio es mi ruta de aprendizaje personal. No pretendo ser un experto, pero estoy convencido de que todos podemos aprender y crecer aplicando esta ruta juntos. 
 
-En Hispanoamérica no tenemos tan arraigada la cultura de crear repositorios colaborativos donde la comunidad participe de forma activa, transparente y asertiva (un formato de estudio público muy común en otras culturas).
+En Hispanoamérica no tenemos tan arraigada la cultura de crear repositorios colaborativos donde la comunidad participe de forma activa, transparente y asertiva (un formato de estudio público muy común en comunidades anglohabientes).
 
 Si estás aprendiendo a programar, te cuesta estudiar en soledad o te abruma la presión de los entornos tradicionales, la mesa está servida. Todos son bienvenidos a participar.
 
@@ -16,7 +29,7 @@ Si estás aprendiendo a programar, te cuesta estudiar en soledad o te abruma la 
 
 ## 🎌 Roadmap de Maquetación (Tabla de Contenidos) — Solo HTML & CSS
 
-A continuación encontrarás una tabla de contenidos exhaustiva para aprender maquetación con HTML y CSS exclusivamente. Todo lo propuesto puede resolverse sin JavaScript; los retos y técnicas están enfocados únicamente en HTML y CSS.
+A continuación encontrarás una tabla de contenidos exhaustiva para aprender maquetación con HTML y CSS exclusivamente. Todo lo propuesto puede resolverse sin JavaScript; los retos y técnicas están pensadas para fortalecer fundamentos sólidos de maquetación web.
 
 1) Fundamentos absolutos
    - Estructura HTML básica: `<!doctype html>`, `html`, `head`, `body`
