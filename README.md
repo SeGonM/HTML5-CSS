@@ -27,22 +27,22 @@ Si estás aprendiendo a programar, te cuesta estudiar en soledad o te abruma la 
 
 ---
 
-## 🎯 Objetivo
+## 𓇼 Objetivo
 
 Crear una ruta de aprendizaje práctica y progresiva para dominar la **maquetación web moderna con HTML y CSS**, mediante:
 
-- 📚 Contenido organizado por niveles.
-- 🧩 Ejercicios prácticos al final de cada sección.
-- 🏆 Mini retos semanales.
-- 🚀 Proyectos integradores.
-- 🤝 Aprendizaje colaborativo (PariaDevs Discord).
-- ♿ Accesibilidad y buenas prácticas.
-- 📱 Diseño responsive.
-- ⚡ Optimización y rendimiento.
+-  Contenido organizado por niveles.
+-  Ejercicios prácticos al final de cada sección.
+-  Mini retos semanales.
+-  Proyectos integradores.
+-  Aprendizaje colaborativo (PariaDevs Discord).
+-  Accesibilidad y buenas prácticas.
+-  Diseño responsive.
+-  Optimización y rendimiento.
 
 ---
 
-## 🗺️ Roadmap
+## 𓇼 Roadmap
 
 La ruta está organizada en 14 etapas, desde los fundamentos absolutos hasta la construcción de proyectos completos.
 
@@ -63,11 +63,11 @@ La ruta está organizada en 14 etapas, desde los fundamentos absolutos hasta la 
 | 13 | Rendimiento, debugging y compatibilidad | 🌲 Avanzado |
 | 14 | Landing Page de la comunidad | 🏆 Proyecto final |
 
-👉 **[Ver el roadmap completo](docs/roadmap.md)**
+➤ **[Ver el roadmap completo](docs/roadmap.md)**
 
 ---
 
-## 🧠 ¿Qué aprenderás?
+## 𓇼 ¿Qué aprenderás?
 
 ### HTML
 
@@ -101,7 +101,7 @@ La ruta está organizada en 14 etapas, desde los fundamentos absolutos hasta la 
 
 ---
 
-## 🏗️ Metodología
+## 𓇼 Metodología
 
 Cada etapa combina teoría y práctica.
 
