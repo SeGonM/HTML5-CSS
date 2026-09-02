@@ -4,6 +4,17 @@
   <img src="../../assets/html/banner.png" alt="Banner de la sección HTML" width="100%" />
 </div>
 
+## 𓇼 Menú de navegación
+
+| Sección | Enlace |
+|---------|--------|
+| Inicio | [README principal](../../README.md) |
+| Roadmap | [Roadmap](../../docs/roadmap.md) |
+| HTML | [HTML](README.md) |
+| CSS | [CSS](../CSS/README.md) |
+
+---
+
 Bienvenidos a la sección de HTML, el punto de partida para construir cualquier sitio web. Aquí es donde aprendemos a dar estructura a la información, organizar el contenido y crear páginas que no solo funcionen, sino que también estén bien hechas.
 
 HTML es el lenguaje que nos permite definir qué hay en una página: títulos, textos, listas, enlaces, imágenes, formularios, secciones, artículos y mucho más. Es la base sobre la que luego le pondremos estilo con CSS y comportamiento con JavaScript.

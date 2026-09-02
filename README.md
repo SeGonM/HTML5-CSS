@@ -27,6 +27,19 @@ Si estás aprendiendo a programar, te cuesta estudiar en soledad o te abruma la 
 
 ---
 
+## 𓇼 Menú de navegación
+
+| Sección | Enlace |
+|---------|--------|
+| Inicio | [README principal](README.md) |
+| Roadmap | [Roadmap](docs/roadmap.md) |
+| HTML | [Sección HTML](content/HTML/README.md) |
+| CSS | [Sección CSS](content/CSS/README.md) |
+| Contribución | [Guía de contribución](CONTRIBUTING.md) |
+| Licencia | [MIT License](LICENSE) |
+
+---
+
 ## 𓇼 Objetivo
 
 Crear una ruta de aprendizaje práctica y progresiva para dominar la **maquetación web moderna con HTML y CSS**, mediante:
@@ -39,6 +52,29 @@ Crear una ruta de aprendizaje práctica y progresiva para dominar la **maquetaci
 -  Accesibilidad y buenas prácticas.
 -  Diseño responsive.
 -  Optimización y rendimiento.
+
+---
+
+## 𓇼 Estructura del repositorio
+
+```text
+HTML5-CSS/
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── assets/
+│   ├── banner.png
+│   ├── css/
+│   └── html/
+├── content/
+│   ├── HTML/
+│   │   └── README.md
+│   └── CSS/
+│       └── README.md
+├── docs/
+│   └── roadmap.md
+└── .git/
+```
 
 ---
 
