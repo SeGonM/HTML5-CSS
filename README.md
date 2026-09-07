@@ -65,7 +65,7 @@ HTML5-CSS/
 ├── exercises/
 ├── CONTRIBUTING.md
 ├── LICENSE
-└── README.m
+└── README.md
 ```
 
 ---
