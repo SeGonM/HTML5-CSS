@@ -59,21 +59,13 @@ Crear una ruta de aprendizaje práctica y progresiva para dominar la **maquetaci
 
 ```text
 HTML5-CSS/
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
 ├── assets/
-│   ├── banner.png
-│   ├── css/
-│   └── html/
 ├── content/
-│   ├── HTML/
-│   │   └── README.md
-│   └── CSS/
-│       └── README.md
 ├── docs/
-│   └── roadmap.md
-└── .git/
+├── exercises/
+├── CONTRIBUTING.md
+├── LICENSE
+└── README.md
 ```
 
 ---
