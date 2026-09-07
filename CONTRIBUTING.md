@@ -1,52 +1,73 @@
-# Guía de contribución
 
-Gracias por querer colaborar con este proyecto. Esta comunidad está pensada para aprender en público, compartir conocimiento y crecer juntos.
+# Contribuir
 
-## ¿Cómo puedes contribuir?
+¡Gracias por echar una mano en el repo! La idea es aprender juntos y mantener todo fácil de revisar.
 
-Puedes colaborar de varias formas:
+## Antes de empezar
 
-- mejorando la documentación,
-- corrigiendo errores de redacción o enlaces,
-- proponiendo nuevos ejercicios o retos,
-- sugiriendo mejoras en la estructura del proyecto,
-- reportando dudas o ideas en issues.
+- No hagas commits ni `push` directamente a `main`.
+- Crea una rama para cada aporte.
+- Cuando termines, abre una Pull Request hacia `main`.
 
-## Flujo recomendado
+## Soluciones de ejercicios
 
-1. Haz un fork del repositorio.
-2. Crea una rama con un nombre claro.
-3. Realiza tus cambios con mensajes descriptivos.
-4. Verifica que todo quede bien organizado y consistente.
-5. Abre un Pull Request con una descripción clara.
+Actualiza tu rama local y crea una rama con tu nombre:
 
-## Reglas básicas
+```bash
+git switch main
+git pull origin main
+git switch -c feature/solucion/NAME
+```
 
-- Mantén un lenguaje respetuoso y claro.
-- Prioriza la calidad sobre la cantidad.
-- Documenta cambios importantes.
-- No rompas la estructura general del proyecto.
-- Si cambias contenido educativo, intenta mantener el tono de la comunidad.
+Guarda tu solución dentro de `exercises/case#/NAME/`, donde `NAME` es tu usuario de GitHub.
+Cada caso tiene su propia carpeta y dentro de ella va una carpeta por participante.
 
-## Convenciones sugeridas
+Ejemplo:
 
-- Usa ramas con nombres descriptivos, por ejemplo:
-  - `docs/readme-improvements`
-  - `feature/css-section-update`
-  - `fix/roadmap-links`
+```text
+exercises/
+└── case1/
+	├── docs-case.md
+	└── SeGonM/
+		├── index.html
+		└── styles.css
+```
 
-- Los commits deben ser claros y específicos. Un ejemplo útil es:
-  - `docs: add project structure section`
-  - `feature: add MIT license and contribution guide`
+Cuando termines:
 
-## Dudas o sugerencias
+```bash
+git add exercises/case#/NAME
+git commit -m "feat: add weekend exercises solution for NAME"
+git push -u origin feature/solucion/NAME
+```
 
-Si tienes una idea, encuentras un error o quieres aportar contenido, puedes abrir un issue para discutirlo antes de hacer cambios grandes.
+Después, abre una Pull Request desde `feature/solucion/NAME` hacia `main`.
 
-La idea es aprender juntos, respetando el proceso y apoyando a la comunidad.
+## Cambios en la documentación
 
-## Código de conducta
+Para modificar el README, la documentación o cualquier contenido relacionado, usa la rama `feature/content`:
 
-La participación debe ser siempre respetuosa, inclusiva y constructiva. No se tolerarán comentarios ofensivos, discriminatorios o destructivos.
+```bash
+git switch main
+git pull origin main
+git switch -c feature/content
+```
 
-Gracias por formar parte de esta comunidad.
+Al terminar:
+
+```bash
+git add .
+git commit -m "docs: improve project documentation"
+git push -u origin feature/content
+```
+
+Después, abre una Pull Request desde `feature/content` hacia `main`.
+
+## Para tenerlo en cuenta
+
+- No modifiques las soluciones de otras personas.
+- Revisa tus cambios con `git status` y `git diff` antes de hacer commit.
+- Mantén los nombres de ramas y carpetas como se indican arriba.
+- Si tienes dudas, comenta en la Pull Request. Lo vemos entre todos.
+
+
