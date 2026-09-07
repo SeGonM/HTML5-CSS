@@ -50,7 +50,7 @@ Para modificar el README, la documentación o cualquier contenido relacionado, u
 ```bash
 git switch main
 git pull origin main
-git switch -c feature/content
+git switch feature/content
 ```
 
 Al terminar:
