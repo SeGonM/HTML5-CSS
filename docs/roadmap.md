@@ -37,37 +37,37 @@
 
 ## 01. Fundamentos de HTML
 
-### Sesión 1.1: Estructura de un documento HTML
+### [Sesión 1.1: Estructura de un documento HTML](../content/HTML/Fundamentos/1.1-estructura-documento-html.md)
 - Concepto de etiquetas y elementos
 - Estructura básica: `<!DOCTYPE>`, `<html>`, `<head>`, `<body>`
 - Propósito de meta tags y atributos
 - HTML5 y su importancia
 
-### Sesión 1.2: HTML Semántico
+### [Sesión 1.2: HTML Semántico](../content/HTML/Fundamentos/1.2-html-semantico.md)
 - Etiquetas semánticas vs genéricas
 - Elementos estructurales: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>`
 - Semántica y SEO
 - Semántica y accesibilidad
 
-### Sesión 1.3: Texto, enlaces y navegación
+### [Sesión 1.3: Texto, enlaces y navegación](../content/HTML/Fundamentos/1.3-texto-enlaces-navegacion.md)
 - Párrafos, saltos de línea, espaciado
 - Listas: ordenadas, desordenadas, definiciones
 - Enlaces y comportamiento
 - Navegación semántica
 
-### Sesión 1.4: Imágenes y multimedia
+### [Sesión 1.4: Imágenes y multimedia](../content/HTML/Fundamentos/1.4-imagenes-multimedia.md)
 - Elemento `<img>` y atributos
 - Formatos modernos (webp, avif)
 - Atributo `alt` y accesibilidad
 - Audio y video semántico
 
-### Sesión 1.5: Formularios
+### [Sesión 1.5: Formularios](../content/HTML/Fundamentos/1.5-formularios.md)
 - Estructura y elementos básicos
 - Tipos de inputs modernos
 - Labels y asociación
 - Validación HTML5 conceptual
 
-### Sesión 1.6: HTML moderno y atributos
+### [Sesión 1.6: HTML moderno y atributos](../content/HTML/Fundamentos/1.6-html-moderno-atributos.md)
 - Atributos globales: `id`, `class`, `data-*`
 - Atributos de accesibilidad: `aria-*`
 - Custom attributes

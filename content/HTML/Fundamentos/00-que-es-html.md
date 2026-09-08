@@ -64,3 +64,4 @@ Los atributos agregan información o configuración:
 4. Valida tu documento y prueba la navegación con teclado.
 5. Usa CSS para estilos y HTML para significado.
 
+[Siguiente sesión: Estructura de un documento HTML](1.1-estructura-documento-html.md)
