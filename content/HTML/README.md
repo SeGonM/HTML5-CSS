@@ -13,6 +13,19 @@
 | HTML | [HTML](README.md) |
 | CSS | [CSS](../CSS/README.md) |
 
+### Módulos de Fundamentos
+
+| Módulo | Enlace |
+|--------|--------|
+| 00. ¿Qué es HTML? | [Abrir módulo](Fundamentos/00-que-es-html.md) |
+| 1.1. Estructura de un documento HTML | [Abrir módulo](Fundamentos/1.1-estructura-documento-html.md) |
+| 1.2. HTML semántico | [Abrir módulo](Fundamentos/1.2-html-semantico.md) |
+| 1.3. Texto, enlaces y navegación | [Abrir módulo](Fundamentos/1.3-texto-enlaces-navegacion.md) |
+| 1.4. Imágenes y multimedia | [Abrir módulo](Fundamentos/1.4-imagenes-multimedia.md) |
+| 1.5. Formularios | [Abrir módulo](Fundamentos/1.5-formularios.md) |
+| 1.6. HTML moderno y atributos | [Abrir módulo](Fundamentos/1.6-html-moderno-atributos.md) |
+| 1.7. Ejercicio integrador | [Abrir módulo](Fundamentos/1.7-ejercicio-fundamentos.md) |
+
 ---
 
 Bienvenidos a la sección de HTML, el punto de partida para construir cualquier sitio web. Aquí es donde aprendemos a dar estructura a la información, organizar el contenido y crear páginas que no solo funcionen, sino que también estén bien hechas.
@@ -27,7 +40,7 @@ En esta parte del curso vamos a aprender a construir páginas con una estructura
 
 | Tema | Qué aprenderemos |
 |------|------------------|
-| Fundamentos | Estructura de un documento HTML, etiquetas y atributos |
+| Fundamentos | [Módulos de Fundamentos](#módulos-de-fundamentos) |
 | Semántica | Header, main, section, article, nav, footer y accesibilidad |
 | Texto y contenido | Párrafos, enlaces, listas, imágenes y multimedia |
 | Formularios | Inputs, labels, validación y mejor UX |
