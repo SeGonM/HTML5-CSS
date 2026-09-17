@@ -77,37 +77,37 @@
 
 ## 02. CSS y Modelo de Caja
 
-### Sesión 2.1: Selectores y Cascada
+### [Sesión 2.1: Selectores y Cascada](../content/CSS/Modelo-en-caja/2.1-selectores-y-cascada.md)
 - Selectores básicos: elemento, clase, id
 - Combinadores: descendiente, hijo, hermano adyacente
 - Cascada y peso de selectores
 - Herencia en CSS
 
-### Sesión 2.2: Especificidad
+### [Sesión 2.2: Especificidad](../content/CSS/Modelo-en-caja/2.2-especificidad.md)
 - Cálculo de especificidad
 - Selectores modernos: `:is()`, `:where()`, `:not()`
 - Impacto en el orden de aplicación
 - Resolviendo conflictos
 
-### Sesión 2.3: Modelo de Caja
+### [Sesión 2.3: Modelo de Caja](../content/CSS/Modelo-en-caja/2.3-modelo-de-caja.md)
 - Content, padding, border, margin
 - Box-sizing: content-box vs border-box
 - Margen colapsable
 - Cálculo de dimensiones
 
-### Sesión 2.4: Unidades CSS Modernas
+### [Sesión 2.4: Unidades CSS Modernas](../content/CSS/Modelo-en-caja/2.4-unidades-css-modernas.md)
 - Unidades absolutas: píxeles
 - Unidades relativas: em, rem, %
 - Viewport units: vw, vh, dvw, dvh
 - Viewport relativo vs absoluto
 
-### Sesión 2.5: Colores y Fondos
+### [Sesión 2.5: Colores y Fondos](../content/CSS/Modelo-en-caja/2.5-colores-y-fondos.md)
 - Sistemas de color: hex, rgb, hsl
 - Formatos modernos: oklch, color()
 - Propiedades de fondo
 - Gradientes lineales y radiales
 
-### Sesión 2.6: Funciones CSS
+### [Sesión 2.6: Funciones CSS](../content/CSS/Modelo-en-caja/2.6-funciones-css.md)
 - calc() para dimensiones dinámicas
 - min(), max(), clamp()
 - var()
