@@ -23,6 +23,18 @@ Aquí vamos a aprender a darle forma a lo que construimos, desde lo más básico
 
 > Si quieres ver el camino completo del curso, te dejo el roadmap principal: [📍 Ir al roadmap](../../docs/roadmap.md)
 
+## 𓇼 Fundamentos y modelo de caja
+
+La primera etapa de CSS explica cómo el navegador selecciona elementos, resuelve conflictos y calcula el espacio que ocupa cada caja:
+
+1. [00. ¿Qué es CSS?](Modelo-en-caja/00-que-es-css.md)
+2. [2.1. Selectores y cascada](Modelo-en-caja/2.1-selectores-y-cascada.md)
+3. [2.2. Especificidad](Modelo-en-caja/2.2-especificidad.md)
+4. [2.3. Modelo de caja](Modelo-en-caja/2.3-modelo-de-caja.md)
+5. [2.4. Unidades CSS modernas](Modelo-en-caja/2.4-unidades-css-modernas.md)
+6. [2.5. Colores y fondos](Modelo-en-caja/2.5-colores-y-fondos.md)
+7. [2.6. Funciones CSS](Modelo-en-caja/2.6-funciones-css.md)
+
 ## 𓇼 Lo que vamos a ver
 
 | Tema | Qué aprenderemos |
