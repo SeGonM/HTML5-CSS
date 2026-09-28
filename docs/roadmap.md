@@ -118,18 +118,21 @@
 ## 03. Layout y Posicionamiento
 
 ### Sesión 3.1: Flujo Normal
+- [Explicación: Flujo normal](../content/CSS/Layout-y-Posicionamiento/3.1-flujo-normal.md)
 - Block vs inline vs inline-block
 - Comportamiento por defecto
 - Collapsing margins
 - Document flow
 
 ### Sesión 3.2: Display
+- [Explicación: Display](../content/CSS/Layout-y-Posicionamiento/3.2-display.md)
 - Display: block, inline, inline-block
 - Display: none vs visibility
 - Impacto en el flujo
 - Combinaciones modernas
 
 ### Sesión 3.3: Position
+- [Explicación: Position](../content/CSS/Layout-y-Posicionamiento/3.3-position.md)
 - Static (por defecto)
 - Relative (relativo al flujo)
 - Absolute (removido del flujo)
@@ -137,18 +140,21 @@
 - Stacking context
 
 ### Sesión 3.4: Contexto de Apilamiento
+- [Explicación: Contexto de apilamiento](../content/CSS/Layout-y-Posicionamiento/3.4-contexto-de-apilamiento.md)
 - z-index y niveles
 - Stacking order
 - Creando nuevos contextos
 - Debugging visual
 
 ### Sesión 3.5: Overflow y Contención
+- [Explicación: Overflow y contención](../content/CSS/Layout-y-Posicionamiento/3.5-overflow-y-contencion.md)
 - Overflow: visible, hidden, scroll, auto
 - Text-overflow
 - Contención de contenido
 - Scrolling behavior
 
 ### Sesión 3.6: Composición y Espaciado
+- [Explicación: Composición y espaciado](../content/CSS/Layout-y-Posicionamiento/3.6-composicion-y-espaciado.md)
 - Espaciado vertical rítmico
 - Proporción y alineación
 - Espacios en blanco (whitespace)

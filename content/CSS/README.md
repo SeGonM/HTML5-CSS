@@ -35,6 +35,17 @@ La primera etapa de CSS explica cómo el navegador selecciona elementos, resuelv
 6. [2.5. Colores y fondos](Modelo-en-caja/2.5-colores-y-fondos.md)
 7. [2.6. Funciones CSS](Modelo-en-caja/2.6-funciones-css.md)
 
+## 𓇼 Layout y posicionamiento
+
+Estas sesiones explican cómo el navegador organiza, posiciona y apila las cajas:
+
+1. [3.1. Flujo normal](Layout-y-Posicionamiento/3.1-flujo-normal.md)
+2. [3.2. Display](Layout-y-Posicionamiento/3.2-display.md)
+3. [3.3. Position](Layout-y-Posicionamiento/3.3-position.md)
+4. [3.4. Contexto de apilamiento](Layout-y-Posicionamiento/3.4-contexto-de-apilamiento.md)
+5. [3.5. Overflow y contención](Layout-y-Posicionamiento/3.5-overflow-y-contencion.md)
+6. [3.6. Composición y espaciado](Layout-y-Posicionamiento/3.6-composicion-y-espaciado.md)
+
 ## 𓇼 Lo que vamos a ver
 
 | Tema | Qué aprenderemos |
