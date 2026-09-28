@@ -117,44 +117,44 @@
 
 ## 03. Layout y Posicionamiento
 
-### Sesión 3.1: Flujo Normal
-- [Explicación: Flujo normal](../content/CSS/Layout-y-Posicionamiento/3.1-flujo-normal.md)
+### [Sesión 3.1: Flujo Normal](../content/CSS/Layout-y-Posicionamiento/3.1-flujo-normal.md)
+- Explicación: Flujo normal
 - Block vs inline vs inline-block
 - Comportamiento por defecto
 - Collapsing margins
 - Document flow
 
-### Sesión 3.2: Display
-- [Explicación: Display](../content/CSS/Layout-y-Posicionamiento/3.2-display.md)
+### [Sesión 3.2: Display](../content/CSS/Layout-y-Posicionamiento/3.2-display.md)
+- Explicación: Display
 - Display: block, inline, inline-block
 - Display: none vs visibility
 - Impacto en el flujo
 - Combinaciones modernas
 
-### Sesión 3.3: Position
-- [Explicación: Position](../content/CSS/Layout-y-Posicionamiento/3.3-position.md)
+### [Sesión 3.3: Position](../content/CSS/Layout-y-Posicionamiento/3.3-position.md)
+- Explicación: Position
 - Static (por defecto)
 - Relative (relativo al flujo)
 - Absolute (removido del flujo)
 - Fixed vs sticky
 - Stacking context
 
-### Sesión 3.4: Contexto de Apilamiento
-- [Explicación: Contexto de apilamiento](../content/CSS/Layout-y-Posicionamiento/3.4-contexto-de-apilamiento.md)
+### [Sesión 3.4: Contexto de Apilamiento](../content/CSS/Layout-y-Posicionamiento/3.4-contexto-de-apilamiento.md)
+-Contexto de apilamiento
 - z-index y niveles
 - Stacking order
 - Creando nuevos contextos
 - Debugging visual
 
-### Sesión 3.5: Overflow y Contención
-- [Explicación: Overflow y contención](../content/CSS/Layout-y-Posicionamiento/3.5-overflow-y-contencion.md)
+### [Sesión 3.5: Overflow y Contención](../content/CSS/Layout-y-Posicionamiento/3.5-overflow-y-contencion.md)
+- Overflow y contención
 - Overflow: visible, hidden, scroll, auto
 - Text-overflow
 - Contención de contenido
 - Scrolling behavior
 
-### Sesión 3.6: Composición y Espaciado
-- [Explicación: Composición y espaciado](../content/CSS/Layout-y-Posicionamiento/3.6-composicion-y-espaciado.md)
+### [Sesión 3.6: Composición y Espaciado](../content/CSS/Layout-y-Posicionamiento/3.6-composicion-y-espaciado.md)
+- Explicación: Composición y espaciado
 - Espaciado vertical rítmico
 - Proporción y alineación
 - Espacios en blanco (whitespace)
