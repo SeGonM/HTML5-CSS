@@ -117,38 +117,44 @@
 
 ## 03. Layout y Posicionamiento
 
-### Sesión 3.1: Flujo Normal
+### [Sesión 3.1: Flujo Normal](../content/CSS/Layout-y-Posicionamiento/3.1-flujo-normal.md)
+- Explicación: Flujo normal
 - Block vs inline vs inline-block
 - Comportamiento por defecto
 - Collapsing margins
 - Document flow
 
-### Sesión 3.2: Display
+### [Sesión 3.2: Display](../content/CSS/Layout-y-Posicionamiento/3.2-display.md)
+- Explicación: Display
 - Display: block, inline, inline-block
 - Display: none vs visibility
 - Impacto en el flujo
 - Combinaciones modernas
 
-### Sesión 3.3: Position
+### [Sesión 3.3: Position](../content/CSS/Layout-y-Posicionamiento/3.3-position.md)
+- Explicación: Position
 - Static (por defecto)
 - Relative (relativo al flujo)
 - Absolute (removido del flujo)
 - Fixed vs sticky
 - Stacking context
 
-### Sesión 3.4: Contexto de Apilamiento
+### [Sesión 3.4: Contexto de Apilamiento](../content/CSS/Layout-y-Posicionamiento/3.4-contexto-de-apilamiento.md)
+-Contexto de apilamiento
 - z-index y niveles
 - Stacking order
 - Creando nuevos contextos
 - Debugging visual
 
-### Sesión 3.5: Overflow y Contención
+### [Sesión 3.5: Overflow y Contención](../content/CSS/Layout-y-Posicionamiento/3.5-overflow-y-contencion.md)
+- Overflow y contención
 - Overflow: visible, hidden, scroll, auto
 - Text-overflow
 - Contención de contenido
 - Scrolling behavior
 
-### Sesión 3.6: Composición y Espaciado
+### [Sesión 3.6: Composición y Espaciado](../content/CSS/Layout-y-Posicionamiento/3.6-composicion-y-espaciado.md)
+- Explicación: Composición y espaciado
 - Espaciado vertical rítmico
 - Proporción y alineación
 - Espacios en blanco (whitespace)

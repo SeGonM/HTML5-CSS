@@ -27,13 +27,28 @@ Aquí vamos a aprender a darle forma a lo que construimos, desde lo más básico
 
 La primera etapa de CSS explica cómo el navegador selecciona elementos, resuelve conflictos y calcula el espacio que ocupa cada caja:
 
-1. [00. ¿Qué es CSS?](Modelo-en-caja/00-que-es-css.md)
-2. [2.1. Selectores y cascada](Modelo-en-caja/2.1-selectores-y-cascada.md)
-3. [2.2. Especificidad](Modelo-en-caja/2.2-especificidad.md)
-4. [2.3. Modelo de caja](Modelo-en-caja/2.3-modelo-de-caja.md)
-5. [2.4. Unidades CSS modernas](Modelo-en-caja/2.4-unidades-css-modernas.md)
-6. [2.5. Colores y fondos](Modelo-en-caja/2.5-colores-y-fondos.md)
-7. [2.6. Funciones CSS](Modelo-en-caja/2.6-funciones-css.md)
+| Sesión | Documento | Temas principales |
+|---|---|---|
+| 00 | [¿Qué es CSS?](Modelo-en-caja/00-que-es-css.md) | Qué es CSS, cómo se aplica y cómo se relaciona con HTML. |
+| 2.1 | [Selectores y cascada](Modelo-en-caja/2.1-selectores-y-cascada.md) | Selectores básicos, combinadores, cascada y herencia. |
+| 2.2 | [Especificidad](Modelo-en-caja/2.2-especificidad.md) | Cálculo de especificidad, selectores modernos y resolución de conflictos. |
+| 2.3 | [Modelo de caja](Modelo-en-caja/2.3-modelo-de-caja.md) | `content`, `padding`, `border`, `margin`, `box-sizing` y dimensiones. |
+| 2.4 | [Unidades CSS modernas](Modelo-en-caja/2.4-unidades-css-modernas.md) | `px`, `em`, `rem`, `%` y unidades relativas al viewport. |
+| 2.5 | [Colores y fondos](Modelo-en-caja/2.5-colores-y-fondos.md) | Sistemas de color, fondos, gradientes y formatos modernos. |
+| 2.6 | [Funciones CSS](Modelo-en-caja/2.6-funciones-css.md) | `calc()`, `min()`, `max()`, `clamp()`, `var()` y funciones avanzadas. |
+
+## 𓇼 Layout y posicionamiento
+
+Estas sesiones explican cómo el navegador organiza, posiciona y apila las cajas:
+
+| Sesión | Documento | Temas principales |
+|---|---|---|
+| 3.1 | [Flujo normal](Layout-y-Posicionamiento/3.1-flujo-normal.md) | Block, inline, inline-block, flujo del documento y márgenes colapsables. |
+| 3.2 | [Display](Layout-y-Posicionamiento/3.2-display.md) | `block`, `inline`, `inline-block`, `none`, `visibility` y combinaciones modernas. |
+| 3.3 | [Position](Layout-y-Posicionamiento/3.3-position.md) | `static`, `relative`, `absolute`, `fixed`, `sticky` y bloque contenedor. |
+| 3.4 | [Contexto de apilamiento](Layout-y-Posicionamiento/3.4-contexto-de-apilamiento.md) | `z-index`, niveles, stacking order, contextos y debugging visual. |
+| 3.5 | [Overflow y contención](Layout-y-Posicionamiento/3.5-overflow-y-contencion.md) | `overflow`, `text-overflow`, contención y comportamiento del desplazamiento. |
+| 3.6 | [Composición y espaciado](Layout-y-Posicionamiento/3.6-composicion-y-espaciado.md) | Ritmo vertical, proporción, alineación, whitespace y composición visual. |
 
 ## 𓇼 Lo que vamos a ver
 
